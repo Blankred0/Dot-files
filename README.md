@@ -47,3 +47,15 @@ The `.bashrc` file feature a few things :
 `extract` who extract some compressed file (11 types)
 
 - And a custom ps1 for color and stuff
+
+The `.profile` is not doing a lot of things , it just do one : starting bash.
+
+The neofetch config is made of 2 file :
+`ascii.txt` which just contain ascii of aperture sciences for the ascii logo of neofetch, you can modify it as you want.
+
+`config.conf` which modified the OS and kernel name and the ascii input.
+
+
+
+
+- There is probably a lot of problems, if you find one create an issue and I'm gonna do my best !
