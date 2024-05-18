@@ -27,9 +27,15 @@ The `.bashrc` file feature a few things :
 
 - Alias of command :
  `ll` for `ls -la`
- `df` for `df -h`
- `free` for `free -m`
- `..` for `cd ..`
- `...` for `cd ../..`
- `neo` for `neofetch`
- `la` for `ls -a`
+ 
+`df` for `df -h`
+ 
+`free` for `free -m`
+ 
+`..` for `cd ..`
+ 
+`...` for `cd ../..`
+ 
+`neo` for `neofetch`
+ 
+`la` for `ls -a`
