@@ -17,7 +17,9 @@ git clone https://github.com/Blankred0/Dot-files
 cd Dot-files
 mv -f .profile ~/
 mv -f .bashrc ~/
+mkdir ~/.config
 mv -f neofetch ~/.config/
+cd .. && rm -r Dot-files
 ```
 
 Feel free to modify and customize these dot files as needed.
