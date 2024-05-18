@@ -51,9 +51,12 @@ The `.bashrc` file feature a few things :
 The `.profile` is not doing a lot of things , it just do one : starting bash.
 
 The neofetch config is made of 2 file :
+
 `ascii.txt` which just contain ascii of aperture sciences for the ascii logo of neofetch, you can modify it as you want.
 
 `config.conf` which modified the OS and kernel name and the ascii input.
+
+
 
 
 
