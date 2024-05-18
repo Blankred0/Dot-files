@@ -46,4 +46,4 @@ The `.bashrc` file feature a few things :
 
 `extract` who extract some compressed file (11 types)
 
--And a custom ps1 for color and stuff
+- And a custom ps1 for color and stuff
