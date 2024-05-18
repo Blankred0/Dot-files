@@ -13,7 +13,7 @@ To install these files on Alpine, simply run:
 
 ```sh
 apk add git bash neofetch
-git clone https://thelink
+git clone https://github.com/Blankred0/Dot-files
 cd Dot-files
 mv -f .profile ~/
 mv -f .bashrc ~/
