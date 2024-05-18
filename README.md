@@ -39,3 +39,11 @@ The `.bashrc` file feature a few things :
 `neo` for `neofetch`
  
 `la` for `ls -a`
+
+-Some useful functions
+
+`mkcd` who make a directory and then go in.
+
+`extract` who extract some compressed file (11 types)
+
+-And a custom ps1 for color and stuff
