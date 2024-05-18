@@ -61,7 +61,7 @@ The neofetch config is made of 2 file :
 
 # Screenshots
 <a href="https://ibb.co/cg33c2B"><img src="https://i.ibb.co/yfPPng9/IMG-5977.png" alt="IMG-5977" border="0"></a>
-
+<a href="https://ibb.co/fpxyYYW"><img src="https://i.ibb.co/R0DsppK/IMG-5978.png" alt="IMG-5978" border="0"></a>
 
 
 - There is probably a lot of problems, if you find one create an issue and I'm gonna do my best !
