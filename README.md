@@ -7,6 +7,8 @@ There are four different files included:
 - `.profile` and `.bashrc` are designed to customize the appearance and behavior of the shell.
 - `neofetch` is configured for Neofetch.
 
+- I recommend to make a save of your previous dotfile before doing this.
+
 To install these files on Alpine, simply run:
 
 ```sh
